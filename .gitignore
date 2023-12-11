@@ -4,7 +4,6 @@
 # 忽略dataset文件夹
 dataset/
 devign/
-# joern-cli/
 GloVe/
 graph2vec/
 joern-cli/
