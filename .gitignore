@@ -1,0 +1,13 @@
+# 忽略所有.dot结尾的文件
+*.dot
+
+# 忽略dataset文件夹
+dataset/
+devign/
+joern-cli/
+GloVe/
+graph2vec/
+joern-cli/
+testdata/
+testdir/
+MVGCL/
